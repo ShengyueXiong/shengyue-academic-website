@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shengyue Xiong # Website name
-baseURL: 'https://shengyuexiong.netlify.app/' # Website URL
+baseURL: 'https://ShengyueXiong.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
